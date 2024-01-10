@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.Константа</constants>
   <catalogs>Catalog.ВидНоменклатуры</catalogs>
   <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
