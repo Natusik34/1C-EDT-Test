@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="689f1209-098b-41b8-b9ef-8809743f6d99">
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="689f1209-098b-41b8-b9ef-8809743f6d99">
   <producedTypes>
     <objectType typeId="3d9eaa56-5d38-429b-885d-7a5da69aa2d6" valueTypeId="d5e35c39-881b-4845-b7b6-52f5f20eb94b"/>
     <refType typeId="bd614340-0a06-4aff-bfa7-ea0e412ecd71" valueTypeId="363317eb-e37c-49da-866c-e08e53d8d48a"/>
@@ -30,4 +30,19 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
+  <attributes uuid="a2590a6b-1b1b-4c66-8fb8-3a4a77ede515">
+    <name>СтавкаНДС</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ставка НДС</value>
+    </synonym>
+    <type>
+      <types>EnumRef.СтавкиНДС</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>

@@ -43,4 +43,5 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
+  <enums>Enum.СтавкиНДС</enums>
 </mdclass:Configuration>
