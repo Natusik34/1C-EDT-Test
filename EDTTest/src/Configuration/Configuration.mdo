@@ -40,6 +40,6 @@
   </languages>
   <catalogs>Catalog.ВидНоменклатуры</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
-  <documents>Document.РасходнаяНакладная</documents>
   <documents>Document.ПриходнаяНакладная</documents>
+  <documents>Document.РасходнаяНакладная</documents>
 </mdclass:Configuration>
