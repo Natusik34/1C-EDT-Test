@@ -38,6 +38,8 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.ВидНоменклатуры</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <documents>Document.РасходнаяНакладная</documents>
   <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
