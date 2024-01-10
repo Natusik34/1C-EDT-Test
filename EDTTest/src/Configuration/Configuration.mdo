@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.ВидНоменклатуры</catalogs>
+  <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
