@@ -43,4 +43,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.ЛБТ_ОсновнаяРоль</roles>
+  <catalogs>Catalog.СправочникТестСвета</catalogs>
 </mdclass:Configuration>
