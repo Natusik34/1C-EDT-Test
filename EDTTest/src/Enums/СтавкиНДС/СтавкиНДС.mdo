@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="35d8bd3d-c6d7-4d08-a3b7-323dba643625">
+  <producedTypes>
+    <refType typeId="32440126-c3a9-408c-8bed-efe42c5ec08f" valueTypeId="80ef4f78-5eb8-4c03-86c8-b8ff43dcd2c9"/>
+    <listType typeId="6ea1577d-4b14-48e7-bc10-c2dbf070c0a8" valueTypeId="c1797a5f-5f7e-4a67-8a50-1efd25ca463f"/>
+    <managerType typeId="a51becb1-2bdb-4134-9a4e-ca574e053e57" valueTypeId="f028361a-d804-4aa0-bbc1-e4350746a8dc"/>
+  </producedTypes>
+  <name>СтавкиНДС</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ставки НДС</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="31991f46-038c-45ae-97ee-c8b910b75a3a">
+    <name>НДС20</name>
+    <synonym>
+      <key>ru</key>
+      <value>НДС20</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
