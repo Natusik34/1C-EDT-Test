@@ -42,6 +42,7 @@
   <catalogs>Catalog.ВидНоменклатуры</catalogs>
   <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Справочник</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
   <documents>Document.УстановкаЦен</documents>
