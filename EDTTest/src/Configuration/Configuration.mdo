@@ -44,4 +44,5 @@
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
   <documents>Document.УстановкаЦен</documents>
+  <enums>Enum.СтавкиНДС</enums>
 </mdclass:Configuration>
